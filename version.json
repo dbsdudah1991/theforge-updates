@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.1",
-  "min_supported": "1.0.0",
+  "latest": "4.1.13",
+  "min_supported": "4.1.0",
   "download_url": "https://github.com/dbsdudah1991/theforge-updates/releases",
-  "changelog": "v1.0.1: 보안 강화, 라이선스 시스템, 배포 최적화",
-  "release_date": "2026-04-05"
+  "changelog": "v4.1.13: ch1 §1.5 지진이력 절 frozen exe 동봉 + 한글 폰트 회귀 복원",
+  "release_date": "2026-05-08"
 }

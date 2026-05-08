@@ -1,1 +1,7 @@
-{"latest": "4.1.14", "min_supported": "4.1.0", "download_url": "https://github.com/dbsdudah1991/theforge-updates/releases", "changelog": "v4.1.14: Phase 6 version.json 자동 게시 + kill-switch min_version + force_upgrade signal", "release_date": "2026-05-08"}
+{
+  "latest": "4.1.14",
+  "min_supported": "4.1.0",
+  "download_url": "https://github.com/dbsdudah1991/-/releases",
+  "changelog": "v4.1.14: Phase 6 version.json 자동 게시 + kill-switch min_version + force_upgrade signal",
+  "release_date": "2026-05-08"
+}

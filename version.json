@@ -1,1 +1,1 @@
-{"latest": "4.1.15", "min_supported": "4.1.13", "download_url": "https://github.com/dbsdudah1991/-/releases", "changelog": "v4.1.15: BUN-3 FAIL resolved: public_data bundle + cldflt lock environment verified", "release_date": "2026-05-11"}
+{"latest": "4.1.16", "min_supported": "4.1.13", "download_url": "https://github.com/dbsdudah1991/-/releases", "changelog": "v4.1.16: HWPX 자동 변환 배포 체인 (학교시설물/기존건축물/선형평가 3타입) + OCR WinError 6 fix + 중력 이미지 embedImg ReferenceError fix", "release_date": "2026-07-05"}

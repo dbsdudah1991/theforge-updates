@@ -1,1 +1,1 @@
-{"latest": "4.1.16", "min_supported": "4.1.13", "download_url": "https://github.com/dbsdudah1991/-/releases", "changelog": "v4.1.16: HWPX 자동 변환 배포 체인 (학교시설물/기존건축물/선형평가 3타입) + OCR WinError 6 fix + 중력 이미지 embedImg ReferenceError fix", "release_date": "2026-07-05"}
+{"latest": "4.1.17", "min_supported": "4.1.13", "download_url": "https://github.com/dbsdudah1991/-/releases", "changelog": "v4.1.17: 배포 완전 자립화 — LibreOffice 내장 (PDF 무설치) + self-exec 인터프리터 (외부 Python 불필요) + 한글 경로 등록 UI (HWPX 자동 복구) + WT 콘솔 창 잔존 fix", "release_date": "2026-07-06"}

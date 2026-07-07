@@ -1,1 +1,1 @@
-{"latest": "4.1.18", "min_supported": "4.1.13", "download_url": "https://github.com/dbsdudah1991/-/releases", "changelog": "v4.1.18: 조적조(URM) 보고서 GUI 정식 노출 (수동입력 + HWPX 변환) + RS-AUTO 응답스펙트럼 자동생성 복구 + verify 게이트 14항목 확장 + per-user 설치 지원(HKA)", "release_date": "2026-07-07"}
+{"latest": "4.1.19", "min_supported": "4.1.13", "download_url": "https://github.com/dbsdudah1991/-/releases", "changelog": "v4.1.19: HWPX 변환 안정화 — cp949 인코딩 크래시 수정 (tools UTF-8 가드) + 기동 env self-exec 정합. v4.1.18 기능 (조적조 보고서 GUI + HWPX, RS-AUTO 복구, per-user 설치) 포함 후속 안정화", "release_date": "2026-07-07"}

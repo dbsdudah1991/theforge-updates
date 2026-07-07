@@ -1,1 +1,1 @@
-{"latest": "4.1.17", "min_supported": "4.1.13", "download_url": "https://github.com/dbsdudah1991/-/releases", "changelog": "v4.1.17: 배포 완전 자립화 — LibreOffice 내장 (PDF 무설치) + self-exec 인터프리터 (외부 Python 불필요) + 한글 경로 등록 UI (HWPX 자동 복구) + WT 콘솔 창 잔존 fix", "release_date": "2026-07-06"}
+{"latest": "4.1.18", "min_supported": "4.1.13", "download_url": "https://github.com/dbsdudah1991/-/releases", "changelog": "v4.1.18: 조적조(URM) 보고서 GUI 정식 노출 (수동입력 + HWPX 변환) + RS-AUTO 응답스펙트럼 자동생성 복구 + verify 게이트 14항목 확장 + per-user 설치 지원(HKA)", "release_date": "2026-07-07"}
